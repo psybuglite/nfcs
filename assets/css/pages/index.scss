@@ -1,0 +1,27 @@
+@import '../normalize';
+@import '../animate';
+@import '../skeleton';
+@import '../placeholders';
+
+
+#index{
+  background: url(../img/social-finder.png);
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+  padding-top: 30px;
+  
+  h1{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 7em;
+    text-align: center; 
+    margin: 0 auto;
+    padding: 0; 
+    max-width: 100px;
+    
+  }
+  
+  .va{
+
+  }
+}
